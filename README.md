@@ -6,7 +6,7 @@
  ## Setup and Installation
 
  REQUIRED:
- - Love2D
+ - [!LÖVE2D](https://love2d.org/)
 
  Recommended IDEs:
  - Atom
