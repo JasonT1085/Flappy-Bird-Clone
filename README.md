@@ -6,7 +6,7 @@
  ## Setup and Installation
 
  REQUIRED:
- - [!LÖVE2D](https://love2d.org/)
+ - [LÖVE2D](https://love2d.org/)
 
  Recommended IDEs:
  - Atom
@@ -14,7 +14,7 @@
 
  For easy setup, please follow the instructions in this video:
  
- [![INSTALLATION GUIDE](https://img.youtube.com/vi/kpxkQldiNPU/0.jpg)](https://www.youtube.com/watch?v=kpxkQldiNPU)
+ [INSTALLATION GUIDE](https://img.youtube.com/vi/kpxkQldiNPU/0.jpg)](https://www.youtube.com/watch?v=kpxkQldiNPU)
  
  ## ⭐️ Contribute
 
