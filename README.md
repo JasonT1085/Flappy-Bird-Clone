@@ -13,5 +13,14 @@
  - Visual Studio Code
 
  For easy setup, please follow the instructions in this video:
+ 
+ [![INSTALLATION GUIDE](https://img.youtube.com/vi/kpxkQldiNPU/0.jpg)](https://www.youtube.com/watch?v=kpxkQldiNPU)
+ 
+ ## ⭐️ Contribute
 
- ![INSTALLATION GUIDE](https://www.youtube.com/watch?v=kpxkQldiNPU)
+To start contributing:
+
+1. Fork [Flappy Bird Clone](https://github.com/JasonT1085/Flappy-Bird-Clone/fork)
+2. Comment on the issue you want to work on.
+3. Work on your Fork and test it.
+4. Send A PR  
