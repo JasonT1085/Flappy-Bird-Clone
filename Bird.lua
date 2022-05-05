@@ -42,7 +42,7 @@ function Bird:collides(pipe)
 end
 
 function Bird:update(dt)
-    self.dy = self.dy + GRAVITY
+    self.dy = self.dy + GRAVITY * dt
 
     -- burst of anti-gravity when space or left mouse are pressed
     if love.keyboard.wasPressed('space') or love.mouse.wasPressed(1) then
